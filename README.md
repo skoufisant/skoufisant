@@ -47,8 +47,8 @@ I utilize a variety of tools and languages to analyze data, build pipelines, and
 >
 > ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![GenAI](https://img.shields.io/badge/-GenAI-333?style=flat)
 
-**[Project Name 2]**
-> *Description of a data analysis project. e.g., Analyzing market trends or calculating OOS impact.*
+**Demand Planning**
+> Calculating OOS impact.*
 >
 > [Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
