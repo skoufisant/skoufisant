@@ -42,20 +42,20 @@ I utilize a variety of tools and languages to analyze data, build pipelines, and
 
 ### 🚀 Featured Projects
 
-**[Project Name 1]**
-> *Description of a project involving GenAI or Automation. e.g., A tool that automates documentation processes using RAG.*
+**Agent Assistant**
+> A tool that automates documentation processes using RAG + Data Lineage mapper*
 >
 > ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![GenAI](https://img.shields.io/badge/-GenAI-333?style=flat)
 
 **[Project Name 2]**
 > *Description of a data analysis project. e.g., Analyzing market trends or calculating OOS impact.*
 >
-> ![R](https://img.shields.io/badge/-R-333?style=flat&logo=r) ![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau)
+> [Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-**[Project Name 3]**
-> *Description of a Data Engineering project using Cloud resources.*
+**Swap Mapper**
+> *Created a tool that automatically mapped all interchangeable Products for each country for a large FMCG*
 >
-> ![Azure](https://img.shields.io/badge/-Azure-333?style=flat&logo=microsoftazure) ![SQL](https://img.shields.io/badge/-SQL-333?style=flat)
+> ![Azure](https://img.shields.io/badge/-Azure-333?style=flat&logo=microsoftazure) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ---
 
